@@ -1,2 +1,3 @@
 # Code-Clash-KrishiConnect
-Team Name - Code Clash &amp; Project Title - KrishiConnect
+Team Name - Code Clash 
+Project Title - KrishiConnect
